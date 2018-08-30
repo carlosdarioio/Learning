@@ -7,9 +7,9 @@ $CFG = new stdClass();
 $CFG->dbtype    = 'mariadb';
 $CFG->dblibrary = 'native';
 $CFG->dbhost    = 'localhost';
-$CFG->dbname    = 'moodle';
-$CFG->dbuser    = 'root';
-$CFG->dbpass    = 'Femosa2017';
+$CFG->dbname    = 'BASEDEDATOS';
+$CFG->dbuser    = 'USER';
+$CFG->dbpass    = 'PSD';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,8 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_general_ci',
 );
 
-//$CFG->wwwroot   = 'http://127.0.0.1:8080/moodle';
-$CFG->wwwroot   = 'http://10.1.201.3:8080/learning';
+$CFG->wwwroot   = 'http://127.0.0.1:8080/learning';
 $CFG->dataroot  = 'C:\\inetpub\\wwwroot\\xampp\\moodledata';
 $CFG->admin     = 'admin';
 
