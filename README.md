@@ -3,5 +3,5 @@ Página dirigida a la explicación de operaciones del trabajo que tiene la empre
 
 Para la implementación de Learning se utilizó Moodle y se le añadieron las siguientes páginas extras: Departamentos, Historia, Mision_Vision, Normas, Nuestras_Divisiones.
 
-Para descargae Moodle ir a: https://moodle.org/?lang=es
+Para descargar Moodle ir a: https://moodle.org/?lang=es
 
